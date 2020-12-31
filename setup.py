@@ -7,7 +7,6 @@ setup(
     install_requires=['gym', 
                       'numpy', 
                       'mujoco_py', 
-                      'pybullet',
                       'h5py', 
                       'termcolor',
                       'click'],
